@@ -1,3 +1,2 @@
-# kopiko-website
-
-https://akhildas2.github.io/kopiko-website/
+# Kopiko_Static_Website
+ https://akhildas2.github.io/Kopiko_Static_Website/
